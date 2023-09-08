@@ -1,0 +1,501 @@
+lexid,street_name,city,state,zip
+8888090530,Prentice,Columbia,MO,65218
+8888090531,Talmadge,Rochester,NY,14652
+8888090532,3rd,Raleigh,NC,27690
+8888090533,Glacier Hill,Greensboro,NC,27425
+8888090534,Summit,Waterbury,CT,6705
+8888090535,Bay,Waco,TX,76705
+8888090536,Waywood,East Saint Louis,IL,62205
+8888090537,Pine View,Washington,DC,20299
+8888090538,Tomscot,Houston,TX,77240
+8888090539,Mcbride,Spartanburg,SC,29305
+8888090540,Warbler,Brooklyn,NY,11236
+8888090541,Red Cloud,New York City,NY,10170
+8888090542,Transport,New York City,NY,10155
+8888090543,Mosinee,Green Bay,WI,54305
+8888090544,Meadow Vale,Brooklyn,NY,11231
+8888090545,Manley,Charlotte,NC,28205
+8888090546,Ramsey,Fresno,CA,93750
+8888090547,Linden,Bradenton,FL,34282
+8888090548,Spaight,Detroit,MI,48267
+8888090549,Anthes,Hampton,VA,23668
+8888090550,Rieder,Kansas City,MO,64101
+8888090551,Dryden,Evansville,IN,47747
+8888090552,Maple,Raleigh,NC,27610
+8888090553,International,Fayetteville,NC,28314
+8888090554,Springs,Houston,TX,77080
+8888090555,Sunbrook,Reno,NV,89505
+8888090556,Norway Maple,Rockford,IL,61105
+8888090557,Holy Cross,Austin,TX,78789
+8888090558,Blaine,San Jose,CA,95138
+8888090559,Mallory,Bakersfield,CA,93381
+8888090560,Mendota,Charleston,SC,29411
+8888090561,Lake View,Mount Vernon,NY,10557
+8888090562,Grim,Jacksonville,FL,32236
+8888090563,Dwight,Flushing,NY,11388
+8888090564,Golden Leaf,Mansfield,OH,44905
+8888090565,Pepper Wood,Indianapolis,IN,46254
+8888090566,Kensington,Merrifield,VA,22119
+8888090567,Corben,Houston,TX,77030
+8888090568,Del Sol,Bradenton,FL,34210
+8888090569,Union,Tallahassee,FL,32314
+8888090570,Glacier Hill,El Paso,TX,79950
+8888090571,Larry,Loretto,MN,55598
+8888090572,Express,Honolulu,HI,96805
+8888090573,Springs,Houston,TX,77065
+8888090574,Birchwood,Fort Wayne,IN,46896
+8888090575,Kipling,Brooklyn,NY,11247
+8888090576,Comanche,Corpus Christi,TX,78465
+8888090577,Scott,White Plains,NY,10606
+8888090578,Cherokee,Sacramento,CA,94230
+8888090579,Shoshone,Delray Beach,FL,33448
+8888090580,Vahlen,Alexandria,VA,22333
+8888090581,Heffernan,Cincinnati,OH,45999
+8888090582,Sutteridge,Washington,DC,20238
+8888090583,Di Loreto,Fort Worth,TX,76162
+8888090584,Birchwood,Garden Grove,CA,92844
+8888090585,Oriole,Dayton,OH,45403
+8888090586,Lukken,Detroit,MI,48258
+8888090587,Spaight,Houston,TX,77090
+8888090588,Longview,Tuscaloosa,AL,35487
+8888090589,Hagan,Philadelphia,PA,19131
+8888090590,Union,Huntington,WV,25716
+8888090591,Thierer,Waltham,MA,2453
+8888090592,Monument,Washington,DC,20425
+8888090593,Monument,Portsmouth,NH,214
+8888090594,Bay,San Diego,CA,92121
+8888090595,Lyons,Birmingham,AL,35210
+8888090596,Crowley,Denver,CO,80223
+8888090597,Buhler,Oakland,CA,94622
+8888090598,Northfield,San Jose,CA,95138
+8888090599,Stuart,Salt Lake City,UT,84199
+8888090600,Barnett,Los Angeles,CA,90040
+8888090601,Dennis,San Rafael,CA,94913
+8888090602,Laurel,Raleigh,NC,27621
+8888090603,Hoard,Lubbock,TX,79491
+8888090604,Victoria,Petaluma,CA,94975
+8888090605,Prairie Rose,Salt Lake City,UT,84145
+8888090606,Superior,Buffalo,NY,14215
+8888090607,Park Meadow,Columbus,OH,43210
+8888090608,Helena,Lincoln,NE,68531
+8888090609,Darwin,Roanoke,VA,24009
+8888090610,Buena Vista,Sacramento,CA,94273
+8888090611,Rowland,Houston,TX,77223
+8888090612,Mockingbird,Nashville,TN,37210
+8888090613,Vermont,White Plains,NY,10633
+8888090614,Warbler,Saint Louis,MO,63116
+8888090615,Oak Valley,Greensboro,NC,27415
+8888090616,Grasskamp,Denver,CO,80262
+8888090617,Independence,Houston,TX,77299
+8888090618,Manitowish,Wichita,KS,67230
+8888090619,Oak,Carol Stream,IL,60158
+8888090620,Oxford,Washington,DC,20231
+8888090621,Bunker Hill,Sioux City,IA,51110
+8888090622,Coleman,Evansville,IN,47719
+8888090623,Morningstar,Los Angeles,CA,90040
+8888090624,Fairfield,Raleigh,NC,27605
+8888090625,Acker,Charlotte,NC,28272
+8888090626,Johnson,Chicago,IL,60614
+8888090627,Debra,Oklahoma City,OK,73129
+8888090628,Saint Paul,San Diego,CA,92115
+8888090629,Oak,New York City,NY,10170
+8888090630,Delaware,Virginia Beach,VA,23454
+8888090631,Carioca,Eugene,OR,97405
+8888090632,Messerschmidt,Durham,NC,27705
+8888090633,Jay,San Diego,CA,92176
+8888090634,Warrior,Jackson,MS,39210
+8888090635,Saint Paul,Detroit,MI,48206
+8888090636,Knutson,New York City,NY,10155
+8888090637,Vermont,Oklahoma City,OK,73124
+8888090638,Anzinger,Richmond,VA,23260
+8888090639,Stephen,Hyattsville,MD,20784
+8888090640,Nancy,Washington,DC,20430
+8888090641,Reindahl,Saint Paul,MN,55166
+8888090642,Hoffman,Albuquerque,NM,87195
+8888090643,Bay,Danbury,CT,6816
+8888090644,Fieldstone,Pasadena,CA,91103
+8888090645,Briar Crest,Raleigh,NC,27626
+8888090646,Village Green,Beaumont,TX,77713
+8888090647,Hoffman,Amarillo,TX,79116
+8888090648,Elka,San Diego,CA,92196
+8888090649,Pierstorff,Chicago,IL,60669
+8888090650,Tennessee,Great Neck,NY,11024
+8888090651,Dunning,Dallas,TX,75342
+8888090652,Huxley,Portland,OR,97296
+8888090653,Bayside,Miami,FL,33134
+8888090654,Elka,Wichita,KS,67260
+8888090655,Sugar,Seattle,WA,98158
+8888090656,Heath,Orlando,FL,32808
+8888090657,Dixon,Fort Lauderdale,FL,33355
+8888090658,Randy,Dallas,TX,75379
+8888090659,Mallory,Santa Monica,CA,90405
+8888090660,Dorton,Birmingham,AL,35285
+8888090661,Upham,Northridge,CA,91328
+8888090662,Trailsway,Elizabeth,NJ,7208
+8888090663,Bartillon,Washington,DC,20575
+8888090664,Michigan,Berkeley,CA,94712
+8888090665,Ruskin,El Paso,TX,88519
+8888090666,Surrey,Boston,MA,2298
+8888090667,Novick,Washington,DC,20525
+8888090668,Debs,Springfield,IL,62711
+8888090669,Lighthouse Bay,Monroe,LA,71208
+8888090670,Clarendon,Tucson,AZ,85743
+8888090671,Donald,Plano,TX,75074
+8888090672,7th,Nashville,TN,37245
+8888090673,Sunnyside,Baltimore,MD,21203
+8888090674,Ridgeway,Glendale,CA,91205
+8888090675,Riverside,Jackson,MS,39296
+8888090676,Monterey,Houston,TX,77266
+8888090677,Nova,Washington,DC,20220
+8888090678,Anthes,Atlanta,GA,30368
+8888090679,Starling,Honolulu,HI,96810
+8888090680,Cherokee,Chicago,IL,60674
+8888090681,Sachs,San Antonio,TX,78285
+8888090682,Alpine,New York City,NY,10280
+8888090683,Daystar,Houston,TX,77223
+8888090684,Sauthoff,Simi Valley,CA,93094
+8888090685,Golden Leaf,Harrisburg,PA,17105
+8888090686,Twin Pines,Bridgeport,CT,6606
+8888090687,Reinke,Hayward,CA,94544
+8888090688,Autumn Leaf,San Francisco,CA,94121
+8888090689,Anthes,Chicago,IL,60624
+8888090690,Morning,Sacramento,CA,94263
+8888090691,Everett,Oklahoma City,OK,73179
+8888090692,Express,Cincinnati,OH,45218
+8888090693,Judy,New Hyde Park,NY,11044
+8888090694,Cottonwood,Tulsa,OK,74116
+8888090695,Fallview,Waltham,MA,2453
+8888090696,Merrick,Grand Rapids,MI,49510
+8888090697,Stang,Washington,DC,20530
+8888090698,Drewry,Laredo,TX,78044
+8888090699,Dapin,Huntington,WV,25705
+8888090700,Rusk,Hollywood,FL,33023
+8888090701,Fremont,Houston,TX,77266
+8888090702,Dennis,Washington,DC,20231
+8888090703,Trailsway,San Antonio,TX,78205
+8888090704,Marcy,Chicago,IL,60609
+8888090705,Artisan,Austin,TX,78744
+8888090706,Westridge,Fort Worth,TX,76115
+8888090707,Parkside,Tulsa,OK,74116
+8888090708,Montana,Los Angeles,CA,90076
+8888090709,Heffernan,Pittsburgh,PA,15261
+8888090710,Debra,Washington,DC,20508
+8888090711,7th,Lansing,MI,48956
+8888090712,Granby,Brooklyn,NY,11247
+8888090713,Stuart,Saint Louis,MO,63180
+8888090714,Lawn,Mobile,AL,36641
+8888090715,Dakota,Charlotte,NC,28230
+8888090716,Myrtle,Vero Beach,FL,32969
+8888090717,Orin,Biloxi,MS,39534
+8888090718,Petterle,New York City,NY,10004
+8888090719,Westport,New York City,NY,10090
+8888090720,Bellgrove,Athens,GA,30605
+8888090721,Brown,Des Moines,IA,50362
+8888090722,Rowland,Plano,TX,75074
+8888090723,Hayes,Shreveport,LA,71130
+8888090724,Lawn,Milwaukee,WI,53234
+8888090725,Westport,Louisville,KY,40293
+8888090726,Bayside,Boston,MA,2203
+8888090727,Rigney,New York City,NY,10045
+8888090728,Mendota,Houston,TX,77255
+8888090729,Beilfuss,Bellevue,WA,98008
+8888090730,Trailsway,Springfield,IL,62794
+8888090731,Elgar,Topeka,KS,66617
+8888090732,Rowland,Dayton,OH,45440
+8888090733,Kingsford,Dallas,TX,75392
+8888090734,Monterey,Naples,FL,34102
+8888090735,Delladonna,Bozeman,MT,59771
+8888090736,Sunfield,Springfield,MO,65810
+8888090737,Crescent Oaks,Punta Gorda,FL,33982
+8888090738,Armistice,Albany,NY,12255
+8888090739,Dayton,Nashville,TN,37210
+8888090740,South,Lincoln,NE,68583
+8888090741,Swallow,Omaha,NE,68117
+8888090742,Daystar,Tempe,AZ,85284
+8888090743,Pleasure,Houston,TX,77212
+8888090744,Meadow Vale,Albuquerque,NM,87190
+8888090745,Pond,Lansing,MI,48912
+8888090746,Green Ridge,Kansas City,MO,64187
+8888090747,Sherman,Huntington,WV,25775
+8888090748,8th,Pittsburgh,PA,15250
+8888090749,Prentice,Colorado Springs,CO,80925
+8888090750,Miller,Wichita,KS,67230
+8888090751,Packers,Baton Rouge,LA,70815
+8888090752,Knutson,Atlanta,GA,30323
+8888090753,Dawn,Washington,DC,20591
+8888090754,Butternut,Denver,CO,80279
+8888090755,Troy,Pittsburgh,PA,15220
+8888090756,Clyde Gallagher,Baton Rouge,LA,70820
+8888090757,Onsgard,Honolulu,HI,96825
+8888090758,Cody,Bradenton,FL,34210
+8888090759,Magdeline,New Haven,CT,6520
+8888090760,Lakewood Gardens,Boston,MA,2109
+8888090761,Sunfield,Los Angeles,CA,90035
+8888090762,Logan,Los Angeles,CA,90071
+8888090763,Sherman,Saint Petersburg,FL,33742
+8888090764,Victoria,San Antonio,TX,78250
+8888090765,Bunker Hill,Louisville,KY,40220
+8888090766,Badeau,Washington,DC,20430
+8888090767,Hagan,Evansville,IN,47747
+8888090768,Lunder,Houston,TX,77055
+8888090769,Paget,Terre Haute,IN,47805
+8888090770,Aberg,San Antonio,TX,78245
+8888090771,6th,Colorado Springs,CO,80910
+8888090772,Magdeline,Montgomery,AL,36119
+8888090773,Hauk,Chesapeake,VA,23324
+8888090774,Manitowish,Erie,PA,16565
+8888090775,Mifflin,Pittsburgh,PA,15225
+8888090776,Armistice,Charlotte,NC,28263
+8888090777,6th,Toledo,OH,43615
+8888090778,Tennessee,Des Moines,IA,50335
+8888090779,Springs,Baltimore,MD,21203
+8888090780,Corscot,Dallas,TX,75392
+8888090781,Mandrake,Jacksonville,FL,32236
+8888090782,Warrior,Tulsa,OK,74156
+8888090783,Union,Honolulu,HI,96810
+8888090784,La Follette,Phoenix,AZ,85040
+8888090785,Dixon,Brooklyn,NY,11220
+8888090786,Roth,New York City,NY,10105
+8888090787,Gina,Newark,NJ,7188
+8888090788,Dayton,Atlanta,GA,30368
+8888090789,Arrowood,Birmingham,AL,35254
+8888090790,Sloan,Indianapolis,IN,46216
+8888090791,Forster,Gainesville,FL,32605
+8888090792,Hanover,Fort Wayne,IN,46862
+8888090793,Golf View,Baton Rouge,LA,70810
+8888090794,Mallard,Kissimmee,FL,34745
+8888090795,Lotheville,San Francisco,CA,94177
+8888090796,Bultman,Reno,NV,89510
+8888090797,Eagle Crest,Indianapolis,IN,46278
+8888090798,Merchant,Baltimore,MD,21211
+8888090799,Farragut,Peoria,IL,61656
+8888090800,Roxbury,Jamaica,NY,11480
+8888090801,Kinsman,Philadelphia,PA,19196
+8888090802,Sherman,Arlington,VA,22205
+8888090803,Granby,Valley Forge,PA,19495
+8888090804,Vidon,El Paso,TX,79911
+8888090805,Buell,Evansville,IN,47747
+8888090806,Dottie,Reston,VA,22096
+8888090807,Commercial,Orlando,FL,32854
+8888090808,New Castle,Lake Charles,LA,70616
+8888090809,International,Washington,DC,20036
+8888090810,Algoma,Lehigh Acres,FL,33972
+8888090811,Laurel,New York City,NY,10009
+8888090812,Onsgard,Melbourne,FL,32941
+8888090813,High Crossing,Meridian,MS,39305
+8888090814,Dunning,Washington,DC,20022
+8888090815,Shopko,Green Bay,WI,54313
+8888090816,Gateway,Pittsburgh,PA,15220
+8888090817,Graedel,Washington,DC,20078
+8888090818,Almo,North Hollywood,CA,91606
+8888090819,Meadow Vale,Indianapolis,IN,46231
+8888090820,Cambridge,Austin,TX,78744
+8888090821,Eastlawn,Arlington,VA,22225
+8888090822,Melvin,Tallahassee,FL,32399
+8888090823,4th,Cleveland,OH,44185
+8888090824,1st,New Orleans,LA,70142
+8888090825,Bay,Fresno,CA,93740
+8888090826,Thompson,Mobile,AL,36641
+8888090827,Service,Wilmington,DE,19892
+8888090828,Homewood,Scottsdale,AZ,85255
+8888090829,Luster,Newport News,VA,23612
+8888090830,Cottonwood,Denver,CO,80291
+8888090831,Roth,Birmingham,AL,35279
+8888090832,Ramsey,Pinellas Park,FL,34665
+8888090833,Westend,Jackson,MS,39282
+8888090834,Londonderry,Fayetteville,NC,28305
+8888090835,Sunbrook,Knoxville,TN,37939
+8888090836,Morrow,Santa Ana,CA,92705
+8888090837,Fair Oaks,Cleveland,OH,44125
+8888090838,Chive,Baltimore,MD,21216
+8888090839,Killdeer,Philadelphia,PA,19136
+8888090840,Coolidge,Springfield,IL,62756
+8888090841,Memorial,Kansas City,MO,64193
+8888090842,Texas,Knoxville,TN,37924
+8888090843,Eagle Crest,Atlanta,GA,30340
+8888090844,Prairieview,Charlotte,NC,28210
+8888090845,Shoshone,Reading,PA,19610
+8888090846,Fuller,Birmingham,AL,35295
+8888090847,Kedzie,Orlando,FL,32885
+8888090848,Spenser,Bakersfield,CA,93305
+8888090849,Fuller,Columbus,OH,43210
+8888090850,School,Houston,TX,77299
+8888090851,Weeping Birch,Akron,OH,44310
+8888090852,Hoffman,Sacramento,CA,95813
+8888090853,Prentice,Fort Smith,AR,72905
+8888090854,Lawn,Cleveland,OH,44191
+8888090855,Eliot,Louisville,KY,40298
+8888090856,Myrtle,Fresno,CA,93773
+8888090857,Becker,Los Angeles,CA,90065
+8888090858,Dixon,Louisville,KY,40298
+8888090859,Golf View,Washington,DC,20370
+8888090860,Bultman,San Diego,CA,92191
+8888090861,Kipling,Austin,TX,78732
+8888090862,Kennedy,Waco,TX,76711
+8888090863,Buena Vista,New Orleans,LA,70116
+8888090864,Northview,Miami,FL,33134
+8888090865,Rusk,Young America,MN,55564
+8888090866,Fairview,New Orleans,LA,70165
+8888090867,Leroy,Waterbury,CT,6705
+8888090868,Fair Oaks,Hartford,CT,6105
+8888090869,Comanche,Mobile,AL,36610
+8888090870,Harper,Young America,MN,55551
+8888090871,High Crossing,Cedar Rapids,IA,52410
+8888090872,Old Gate,Richmond,VA,23293
+8888090873,La Follette,Inglewood,CA,90398
+8888090874,Dryden,Lansing,MI,48930
+8888090875,Arizona,Fort Worth,TX,76110
+8888090876,Westerfield,Orange,CA,92867
+8888090877,Old Gate,Des Moines,IA,50369
+8888090878,Cascade,Muskegon,MI,49444
+8888090879,Mendota,Flint,MI,48550
+8888090880,Sycamore,Peoria,IL,61605
+8888090881,Redwing,Elmira,NY,14905
+8888090882,Dayton,New Orleans,LA,70160
+8888090883,Sachtjen,Saint Paul,MN,55166
+8888090884,Linden,Merrifield,VA,22119
+8888090885,Artisan,Canton,OH,44760
+8888090886,Fieldstone,Birmingham,AL,35254
+8888090887,Comanche,Akron,OH,44393
+8888090888,Sullivan,Anchorage,AK,99599
+8888090889,Moland,Denver,CO,80209
+8888090890,Delladonna,New York City,NY,10024
+8888090891,Canary,Houston,TX,77201
+8888090892,Hooker,Chicago,IL,60657
+8888090893,Rowland,Honolulu,HI,96825
+8888090894,Westridge,San Diego,CA,92186
+8888090895,Bellgrove,Memphis,TN,38136
+8888090896,Division,Harrisburg,PA,17140
+8888090897,Browning,Glendale,AZ,85305
+8888090898,Autumn Leaf,Santa Monica,CA,90405
+8888090899,Farwell,Young America,MN,55564
+8888090900,Cambridge,Tampa,FL,33633
+8888090901,7th,Peoria,AZ,85383
+8888090902,Express,Greenville,SC,29605
+8888090903,Melody,Toledo,OH,43699
+8888090904,Anthes,Phoenix,AZ,85067
+8888090905,Ilene,El Paso,TX,88558
+8888090906,Roth,Sacramento,CA,94230
+8888090907,Lindbergh,Norwalk,CT,6854
+8888090908,Columbus,Dallas,TX,75277
+8888090909,Donald,Philadelphia,PA,19172
+8888090910,Fallview,Falls Church,VA,22047
+8888090911,Magdeline,Hartford,CT,6120
+8888090912,Sycamore,Mobile,AL,36670
+8888090913,Loomis,Mobile,AL,36689
+8888090914,Moulton,Migrate,KY,41905
+8888090915,Kim,Indianapolis,IN,46221
+8888090916,Corben,Sacramento,CA,95852
+8888090917,Hagan,Raleigh,NC,27621
+8888090918,Rowland,Berkeley,CA,94705
+8888090919,Arapahoe,Amarillo,TX,79171
+8888090920,Lillian,San Francisco,CA,94105
+8888090921,Sachtjen,Pocatello,ID,83206
+8888090922,Stephen,Colorado Springs,CO,80940
+8888090923,Clyde Gallagher,San Antonio,TX,78255
+8888090924,Scott,Atlanta,GA,30358
+8888090925,International,Dayton,OH,45414
+8888090926,Lakeland,Corpus Christi,TX,78475
+8888090927,Harbort,New York City,NY,10131
+8888090928,Annamark,Bethlehem,PA,18018
+8888090929,Bartillon,Lincoln,NE,68505
+8888090930,Fisk,San Francisco,CA,94110
+8888090931,Arrowood,Norfolk,VA,23514
+8888090932,Little Fleur,Houston,TX,77075
+8888090933,Dakota,Bowie,MD,20719
+8888090934,Blackbird,Saint Louis,MO,63196
+8888090935,Tony,Melbourne,FL,32941
+8888090936,Kingsford,Colorado Springs,CO,80915
+8888090937,Bowman,Baltimore,MD,21229
+8888090938,Fairview,Sacramento,CA,94245
+8888090939,Lillian,Torrance,CA,90505
+8888090940,Blackbird,Henderson,NV,89012
+8888090941,Butterfield,Memphis,TN,38188
+8888090942,Spenser,Staten Island,NY,10310
+8888090943,Stoughton,Plano,TX,75074
+8888090944,Di Loreto,Anchorage,AK,99517
+8888090945,Green,El Paso,TX,88579
+8888090946,Jenna,Chesapeake,VA,23324
+8888090947,Springview,Loretto,MN,55598
+8888090948,Kennedy,Fort Myers,FL,33994
+8888090949,Everett,Santa Ana,CA,92725
+8888090950,Gateway,El Paso,TX,88563
+8888090951,Dottie,Baltimore,MD,21211
+8888090952,Forest Dale,Rockford,IL,61110
+8888090953,Florence,Shawnee Mission,KS,66215
+8888090954,Ohio,Greensboro,NC,27409
+8888090955,Mandrake,Indianapolis,IN,46216
+8888090956,Bellgrove,Honolulu,HI,96810
+8888090957,Golf View,Abilene,TX,79699
+8888090958,Basil,Phoenix,AZ,85045
+8888090959,Cambridge,Jacksonville,FL,32220
+8888090960,Pleasure,Shreveport,LA,71151
+8888090961,Jenifer,Chicago,IL,60657
+8888090962,Rockefeller,Clearwater,FL,34629
+8888090963,Oak,Lexington,KY,40515
+8888090964,Fuller,Fullerton,CA,92835
+8888090965,Troy,Levittown,PA,19058
+8888090966,Carioca,Pittsburgh,PA,15286
+8888090967,John Wall,Birmingham,AL,35242
+8888090968,Hayes,Washington,DC,20036
+8888090969,Iowa,Honolulu,HI,96840
+8888090970,Texas,Palatine,IL,60078
+8888090971,Becker,Clearwater,FL,34615
+8888090972,Sullivan,Topeka,KS,66622
+8888090973,Crescent Oaks,Atlanta,GA,30368
+8888090974,Clemons,Anaheim,CA,92805
+8888090975,Holy Cross,Oklahoma City,OK,73173
+8888090976,Northland,San Antonio,TX,78260
+8888090977,Carberry,Louisville,KY,40250
+8888090978,Lighthouse Bay,Lynchburg,VA,24503
+8888090979,Fair Oaks,Atlanta,GA,30375
+8888090980,Myrtle,Wichita,KS,67210
+8888090981,Calypso,Pasadena,CA,91131
+8888090982,Lillian,Knoxville,TN,37914
+8888090983,Claremont,Denver,CO,80235
+8888090984,Prairie Rose,Phoenix,AZ,85005
+8888090985,6th,Oklahoma City,OK,73173
+8888090986,Roxbury,Louisville,KY,40220
+8888090987,Milwaukee,San Jose,CA,95160
+8888090988,Schurz,Lansing,MI,48919
+8888090989,Maywood,Sioux City,IA,51105
+8888090990,Old Gate,Detroit,MI,48211
+8888090991,Hoepker,Peoria,IL,61635
+8888090992,Lindbergh,Beaverton,OR,97075
+8888090993,Erie,Fort Wayne,IN,46862
+8888090994,Red Cloud,Dulles,VA,20189
+8888090995,Lakeland,Staten Island,NY,10305
+8888090996,3rd,Atlanta,GA,30380
+8888090997,Welch,Kansas City,MO,64179
+8888090998,Manufacturers,San Bernardino,CA,92405
+8888090999,Amoth,Sacramento,CA,94263
+8888091000,Dennis,Washington,DC,20425
+8888091001,Granby,Birmingham,AL,35220
+8888091002,Talmadge,Fort Pierce,FL,34981
+8888091003,Miller,Las Vegas,NV,89150
+8888091004,Utah,Billings,MT,59112
+8888091005,Meadow Vale,Saint Paul,MN,55123
+8888091006,Esker,Huntington,WV,25775
+8888091007,Melody,Alexandria,VA,22333
+8888091008,Onsgard,Garden Grove,CA,92645
+8888091009,Coolidge,Richmond,VA,23203
+8888091010,David,Woburn,MA,1813
+8888091011,Goodland,Silver Spring,MD,20904
+8888091012,Ridge Oak,Saint Cloud,MN,56372
+8888091013,New Castle,Lees Summit,MO,64082
+8888091014,Anniversary,Brea,CA,92822
+8888091015,Towne,Jacksonville,FL,32277
+8888091016,Packers,Denver,CO,80279
+8888091017,Erie,Cincinnati,OH,45238
+8888091018,Golf,Roanoke,VA,24029
+8888091019,Little Fleur,Greensboro,NC,27499
+8888091020,Evergreen,Colorado Springs,CO,80920
+8888091021,Mockingbird,Wichita Falls,TX,76310
+8888091022,Logan,Las Vegas,NV,89115
+8888091023,Lakeland,Raleigh,NC,27615
+8888091024,Washington,New York City,NY,10150
+8888091025,Beilfuss,Jacksonville,FL,32259
+8888091026,Buhler,Chattanooga,TN,37450
+8888091027,Heffernan,Lake Worth,FL,33462
+8888091028,Fordem,El Paso,TX,79955
+8888091029,Luster,Washington,DC,20041
